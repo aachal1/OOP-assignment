@@ -9,7 +9,6 @@ void main() {
       totalMark: 0);
 
   Stu.displayDetails();
-  // Stu.calculateTotal(Stu.mark1, Stu.mark2, Stu.mark3);
   Stu.calculateTotal();
   Stu.calculatePercentage();
 }
